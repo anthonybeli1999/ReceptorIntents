@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReceptorIntents</string>
+    <string name="title">Receptor Intents</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="hnt_nombre">Nombre</string>
+    <string name="txt_apellido">Apellido:</string>
+    <string name="hnt_apellido">Apellido</string>
+    <string name="txt_numero">Celular:</string>
+    <string name="hnt_numero">Celular</string>
+    <string name="txt_email">Email:</string>
+    <string name="hnt_email">Email</string>
+    <string name="txt_direccion">Direccion:</string>
+    <string name="hnt_direccion">Direccion</string>
+    <string name="txt_camara">Foto:</string>
+    <string name="btn_map">Ver</string>
+    <string name="btn_camera">Captura</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
